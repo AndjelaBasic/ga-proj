@@ -8,5 +8,5 @@ Keywords: Delaunay triangulation, k-d trees, nearest neighbour
 
 Solution path: algoritmi_studentski_projekti/ga_shortest_path_tree.cpp
 
-Input files for testing: input_files\shortestPathTree
+Input files for testing: input_files/shortestPathTree
 
